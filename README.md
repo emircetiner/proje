@@ -1,5 +1,15 @@
 PROJE FİKRİ:
-Teachable machine ve discord botları kullanılarak atık ayırma
+Görseller ve açıklamalarla iklim değişikliğini anlatan bir bot.
 
-PROJEDEKİ KÜTÜPHANELER:discord.py
+PROJEDEKİ KÜTÜPHANELER:Discord
 
+Kaynaklar:AFAD,Wikipedia,Unsplash
+
+
+
+
+
+
+
+
+Quiz yapabilirsin
