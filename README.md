@@ -12,4 +12,4 @@ Kaynaklar:AFAD,Wikipedia,Unsplash
 
 
 
-Quiz yapabilirsin
+
