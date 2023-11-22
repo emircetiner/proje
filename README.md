@@ -5,6 +5,8 @@ PROJEDEKİ KÜTÜPHANELER:Discord
 
 Kaynaklar:AFAD,Wikipedia,Unsplash
 
+Komutları görmek için $komutlar yazabilirsiniz.
+
 
 
 
